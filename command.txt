@@ -1,0 +1,6 @@
+ffmpeg -f v4l2 -input_format mjpeg -framerate 30 -video_size 1920x1080 -i /dev/video0 -c:v copy test_hot.mkv
+mjpg_streamer -i "/usr/local/lib/mjpg-streamer/input_uvc.so -r 3840x2160" -o "/usr/local/lib/mjpg-streamer/output_file.so -f /home/pi/Desktop/ -f /home/pi/Desktop/test_mjpg_streamer/"
+
+mjpg_streamer -i "/usr/local/lib/mjpg-streamer/input_uvc.so -r 1920x1080" -o "/usr/local/lib/mjpg-streamer/output_file.so -f /home/pi/Desktop/ -f /home/pi/Desktop/test_mjpg_streamer/ -d 50"
+
+ffmpeg -f rawvideo -video_size 1920x1080 -i /dev/video0 -codec:v copy raw.nut

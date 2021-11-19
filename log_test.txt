@@ -1,0 +1,1114 @@
+[INFO] 2021-07-18 05:55:15,745: Data Received: LOGOUT
+[INFO] 2021-07-18 06:00:10,086: Connection on Port 5005 Open
+[INFO] 2021-07-18 06:00:10,092: Waiting for connection
+[INFO] 2021-07-18 06:00:15,348: Connected with: ('169.254.64.112', 53115)
+[INFO] 2021-07-18 06:00:15,348: Communication establish
+[INFO] 2021-07-18 06:00:19,239: Data Received: REBOOT
+[INFO] 2021-07-18 06:43:20,398: Connection on Port 5005 Open
+[ERROR] 2021-07-18 06:43:20,399: Can't open connection
+[ERROR] 2021-07-18 06:43:20,399: No Connection, Can't establish the communications
+[INFO] 2021-07-18 06:47:20,247: Connection on Port 5005 Open
+[INFO] 2021-07-18 06:47:20,250: Waiting for connection
+[INFO] 2021-07-18 06:47:22,707: Connected with: ('169.254.64.112', 59376)
+[INFO] 2021-07-18 06:47:22,707: Communication establish
+[INFO] 2021-07-18 06:47:27,128: Data Received: TIME_LAPSE_RECORDING_START
+[INFO] 2021-07-18 06:47:27,152: Time Lapse started
+[INFO] 2021-07-18 06:47:27,155: Reply sent
+[INFO] 2021-07-18 06:53:57,592: Data Received: TIME_LAPSE_RECORDING_STOP
+[INFO] 2021-07-18 06:53:57,593: Reply sent
+[INFO] 2021-07-18 06:55:15,538: Data Received: SET_TIME_LAPSE_IT 1
+[INFO] 2021-07-18 06:55:15,539: Time Lapse interval set to 1
+[INFO] 2021-07-18 06:55:15,540: Reply sent
+[INFO] 2021-07-18 06:55:19,785: Data Received: TIME_LAPSE_RECORDING_START
+[INFO] 2021-07-18 06:55:19,802: Time Lapse started
+[INFO] 2021-07-18 06:55:19,805: Reply sent
+[INFO] 2021-07-18 06:56:03,743: Data Received: TIME_LAPSE_RECORDING_STOP
+[INFO] 2021-07-18 06:56:03,744: Reply sent
+[INFO] 2021-07-18 06:56:08,070: Data Received: LOGOUT
+[INFO] 2021-07-18 07:15:04,647: Connection on Port 5005 Open
+[INFO] 2021-07-18 07:15:04,653: Waiting for connection
+[INFO] 2021-07-18 07:15:10,212: Connected with: ('169.254.64.112', 49165)
+[INFO] 2021-07-18 07:15:10,213: Communication establish
+[INFO] 2021-07-18 07:15:11,650: Data Received: tet
+[INFO] 2021-07-18 07:15:11,651: Reply sent
+[INFO] 2021-07-18 07:15:20,326: Data Received: VIDEO_RECORDING_START
+[INFO] 2021-07-18 07:15:20,355: Camera started recording
+[INFO] 2021-07-18 07:15:20,357: Reply sent
+[INFO] 2021-07-18 07:20:45,873: Data Received: LOGOUT
+[INFO] 2021-07-18 07:20:49,654: Connection on Port 5005 Open
+[INFO] 2021-07-18 07:20:49,654: Waiting for connection
+[INFO] 2021-07-18 07:20:51,410: Connected with: ('169.254.64.112', 62932)
+[INFO] 2021-07-18 07:20:51,411: Communication establish
+[INFO] 2021-07-18 07:20:54,200: Data Received: VIDEO_RECORDING_START
+[INFO] 2021-07-18 07:20:54,225: Camera started recording
+[INFO] 2021-07-18 07:20:54,228: Reply sent
+[INFO] 2021-07-18 07:21:54,619: Data Received: LOGOUT
+[INFO] 2021-07-18 07:22:00,559: Connection on Port 5005 Open
+[INFO] 2021-07-18 07:22:00,560: Waiting for connection
+[INFO] 2021-07-18 07:22:02,463: Connected with: ('169.254.64.112', 59236)
+[INFO] 2021-07-18 07:22:02,464: Communication establish
+[INFO] 2021-07-18 07:22:09,967: Data Received: VIDEO_RECORDING_START
+[INFO] 2021-07-18 07:22:09,994: Camera started recording
+[INFO] 2021-07-18 07:22:09,997: Reply sent
+[INFO] 2021-07-18 07:23:48,071: Data Received: LOGOUT
+[INFO] 2021-07-18 07:24:11,006: Connection on Port 5005 Open
+[INFO] 2021-07-18 07:24:11,007: Waiting for connection
+[INFO] 2021-07-18 07:24:13,199: Connected with: ('169.254.64.112', 55724)
+[INFO] 2021-07-18 07:24:13,200: Communication establish
+[INFO] 2021-07-18 07:24:23,872: Data Received: VIDEO_RECORDING_START
+[INFO] 2021-07-18 07:24:23,898: Camera started recording
+[INFO] 2021-07-18 07:24:23,901: Reply sent
+[INFO] 2021-07-18 07:48:14,730: Connection on Port 5005 Open
+[INFO] 2021-07-18 07:48:14,730: Waiting for connection
+[INFO] 2021-07-18 07:48:18,348: Connected with: ('169.254.64.112', 57715)
+[INFO] 2021-07-18 07:48:18,349: Communication establish
+[INFO] 2021-07-18 07:48:19,936: Data Received: test
+[INFO] 2021-07-18 07:48:19,937: Reply sent
+[INFO] 2021-07-18 07:48:22,488: Data Received: VIDEO_RECORDING_START
+[INFO] 2021-07-18 07:48:22,509: Camera started recording
+[INFO] 2021-07-18 07:48:22,512: Reply sent
+[INFO] 2021-07-18 07:48:39,274: Data Received: LOGOUT
+[INFO] 2021-07-18 07:54:49,184: Connection on Port 5005 Open
+[INFO] 2021-07-18 07:54:49,186: Waiting for connection
+[INFO] 2021-07-18 07:54:51,967: Connected with: ('169.254.64.112', 64581)
+[INFO] 2021-07-18 07:54:51,968: Communication establish
+[INFO] 2021-07-18 07:54:56,974: Data Received: VIDEO_RECORDING_START
+[INFO] 2021-07-18 07:54:56,992: Camera started recording
+[INFO] 2021-07-18 07:54:56,995: Reply sent
+[INFO] 2021-07-18 07:55:04,043: Data Received: VIDEO_RECORDING_STOP
+[INFO] 2021-07-18 07:55:04,043: Reply sent
+[INFO] 2021-07-18 07:55:56,239: Data Received: LOGOUT
+[INFO] 2021-07-18 07:58:39,759: Connection on Port 5005 Open
+[INFO] 2021-07-18 07:58:39,760: Waiting for connection
+[INFO] 2021-07-18 07:58:43,204: Connected with: ('169.254.64.112', 52149)
+[INFO] 2021-07-18 07:58:43,205: Communication establish
+[INFO] 2021-07-18 07:58:44,851: Data Received: test
+[INFO] 2021-07-18 07:58:44,852: Reply sent
+[INFO] 2021-07-18 07:58:47,711: Data Received: VIDEO_RECORDING_START
+[INFO] 2021-07-18 07:58:47,727: Camera started recording
+[INFO] 2021-07-18 07:58:47,729: Reply sent
+[INFO] 2021-07-18 07:58:56,102: Data Received: VIDEO_RECORDING_STOP
+[INFO] 2021-07-18 08:03:11,603: Connection on Port 5005 Open
+[INFO] 2021-07-18 08:03:11,604: Waiting for connection
+[INFO] 2021-07-18 08:03:19,586: Connected with: ('169.254.64.112', 52525)
+[INFO] 2021-07-18 08:03:19,586: Communication establish
+[INFO] 2021-07-18 08:03:21,658: Data Received: VIDEO_RECORDING_START
+[INFO] 2021-07-18 08:03:21,683: Camera started recording
+[INFO] 2021-07-18 08:03:21,686: Reply sent
+[INFO] 2021-07-18 08:03:26,283: Data Received: VIDEO_RECORDING_STOP
+[INFO] 2021-07-18 08:03:26,395: Reply sent
+[INFO] 2021-07-18 08:03:42,409: Data Received: VIDEO_RECORDING_START
+[INFO] 2021-07-18 08:03:42,424: Camera started recording
+[INFO] 2021-07-18 08:03:42,426: Reply sent
+[INFO] 2021-07-18 08:03:59,198: Data Received: VIDEO_RECORDING_STOP
+[INFO] 2021-07-18 08:03:59,309: Reply sent
+[INFO] 2021-07-18 08:07:28,329: Data Received: LOGOUT
+[INFO] 2021-07-18 08:08:53,618: Connection on Port 5005 Open
+[INFO] 2021-07-18 08:08:53,618: Waiting for connection
+[INFO] 2021-07-18 09:31:25,634: Connection on Port 5005 Open
+[INFO] 2021-07-18 09:31:25,637: Waiting for connection
+[INFO] 2021-07-18 09:31:30,571: Connected with: ('169.254.64.112', 52056)
+[INFO] 2021-07-18 09:31:30,572: Communication establish
+[INFO] 2021-07-18 09:31:32,305: Data Received: test
+[INFO] 2021-07-18 09:31:32,306: Reply sent
+[INFO] 2021-07-18 09:31:34,974: Data Received: GET_TEMP
+[INFO] 2021-07-18 09:31:34,975: Reply sent
+[INFO] 2021-07-18 09:31:43,689: Data Received: GET_STATE
+[INFO] 2021-07-18 09:31:43,690: Reply sent
+[INFO] 2021-07-18 09:35:08,258: Data Received: LOGOUT
+[INFO] 2021-07-18 09:45:55,718: Connection on Port 5005 Open
+[ERROR] 2021-07-18 09:45:55,721: Can't open connection
+[ERROR] 2021-07-18 09:45:55,722: No Connection, Can't establish the communications
+[INFO] 2021-07-18 09:46:14,655: Connection on Port 5005 Open
+[ERROR] 2021-07-18 09:46:14,655: Can't open connection
+[ERROR] 2021-07-18 09:46:14,656: No Connection, Can't establish the communications
+[INFO] 2021-07-18 09:46:22,701: Connection on Port 5005 Open
+[INFO] 2021-07-18 09:46:22,702: Waiting for connection
+[INFO] 2021-07-18 09:46:29,451: Connected with: ('169.254.64.112', 60247)
+[INFO] 2021-07-18 09:46:29,452: Communication establish
+[INFO] 2021-07-18 09:46:35,718: Data Received: THERMAL_SET 25
+[ERROR] 2021-07-18 09:46:35,719: Thermal auto heat set to 25
+[INFO] 2021-07-18 09:46:35,720: Reply sent
+[INFO] 2021-07-18 10:00:17,108: Connection on Port 5005 Open
+[ERROR] 2021-07-18 10:00:17,109: Can't open connection
+[ERROR] 2021-07-18 10:00:17,110: No Connection, Can't establish the communications
+[INFO] 2021-07-18 10:00:40,360: Connection on Port 5005 Open
+[INFO] 2021-07-18 10:00:40,361: Waiting for connection
+[INFO] 2021-07-18 10:00:42,022: Connected with: ('169.254.64.112', 54551)
+[INFO] 2021-07-18 10:00:42,022: Communication establish
+[INFO] 2021-07-18 10:00:44,988: Data Received: test
+[INFO] 2021-07-18 10:00:44,989: Reply sent
+[INFO] 2021-07-18 10:00:49,308: Data Received: GET_STATE
+[INFO] 2021-07-18 10:00:49,309: Reply sent
+[INFO] 2021-07-18 10:01:36,150: Data Received: TIME_LAPSE_RECORDING_START
+[INFO] 2021-07-18 10:01:36,182: Time Lapse started
+[INFO] 2021-07-18 10:01:36,186: Reply sent
+[INFO] 2021-07-18 10:01:50,957: Data Received: GET_STATE
+[INFO] 2021-07-18 10:01:50,958: Reply sent
+[INFO] 2021-07-18 10:02:43,062: Data Received: TIME_LAPSE_RECORDING_STOP
+[INFO] 2021-07-18 10:02:43,063: Reply sent
+[INFO] 2021-07-18 10:02:45,790: Data Received: GET_STATE
+[INFO] 2021-07-18 10:02:45,791: Reply sent
+[INFO] 2021-07-18 10:02:50,719: Data Received: TIME_LAPSE_RECORDING_START
+[INFO] 2021-07-18 10:02:50,736: Time Lapse started
+[INFO] 2021-07-18 10:02:50,739: Reply sent
+[INFO] 2021-07-18 10:03:33,583: Data Received: GET_STATE
+[INFO] 2021-07-18 10:03:33,583: Reply sent
+[INFO] 2021-07-18 10:03:40,235: Data Received: TIME_LAPSE_RECORDING_STOP
+[INFO] 2021-07-18 10:03:40,245: Reply sent
+[INFO] 2021-07-18 10:03:48,583: Data Received: GET_STATE
+[INFO] 2021-07-18 10:03:48,584: Reply sent
+[INFO] 2021-07-18 10:05:50,154: Data Received: LOGOUT
+[INFO] 2021-07-18 10:07:39,466: Connection on Port 5005 Open
+[INFO] 2021-07-18 10:07:39,467: Waiting for connection
+[INFO] 2021-07-18 10:11:04,128: Connection on Port 5005 Open
+[INFO] 2021-07-18 10:11:04,130: Waiting for connection
+[INFO] 2021-07-18 11:58:21,175: Connection on Port 5005 Open
+[INFO] 2021-07-18 11:58:21,176: Waiting for connection
+[INFO] 2021-07-18 12:31:42,611: Connection on Port 5005 Open
+[INFO] 2021-07-18 12:31:42,612: Waiting for connection
+[INFO] 2021-07-18 12:31:44,855: Connected with: ('169.254.64.112', 64761)
+[INFO] 2021-07-18 12:31:44,856: Communication establish
+[INFO] 2021-07-18 12:31:53,618: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 12:32:03,946: Reply sent
+[INFO] 2021-07-18 12:41:16,838: Data Received: LOGOUT
+[INFO] 2021-07-18 12:44:46,710: Connection on Port 5005 Open
+[INFO] 2021-07-18 12:44:46,710: Waiting for connection
+[INFO] 2021-07-18 12:44:51,024: Connected with: ('169.254.64.112', 59615)
+[INFO] 2021-07-18 12:44:51,025: Communication establish
+[INFO] 2021-07-18 12:44:54,010: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 12:45:04,241: Reply sent
+[INFO] 2021-07-18 12:45:16,290: Data Received: LOGOUT
+[INFO] 2021-07-18 12:45:57,174: Connection on Port 5005 Open
+[INFO] 2021-07-18 12:45:57,176: Waiting for connection
+[INFO] 2021-07-18 12:45:58,856: Connected with: ('169.254.64.112', 61593)
+[INFO] 2021-07-18 12:45:58,856: Communication establish
+[INFO] 2021-07-18 12:46:02,899: Data Received: REPEAT test
+[INFO] 2021-07-18 12:46:02,900: Reply sent
+[INFO] 2021-07-18 12:46:04,170: Data Received: e
+[INFO] 2021-07-18 12:46:04,174: Reply sent
+[INFO] 2021-07-18 12:46:04,787: Data Received: sdf
+[INFO] 2021-07-18 12:46:04,788: Reply sent
+[INFO] 2021-07-18 12:46:05,267: Data Received: sdqf
+[INFO] 2021-07-18 12:46:05,268: Reply sent
+[INFO] 2021-07-18 12:46:13,651: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 12:46:23,863: Reply sent
+[INFO] 2021-07-18 12:47:50,214: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 12:48:00,449: Reply sent
+[INFO] 2021-07-18 12:49:03,319: Data Received: LOGOUT
+[INFO] 2021-07-18 12:49:07,172: Connection on Port 5005 Open
+[INFO] 2021-07-18 12:49:07,172: Waiting for connection
+[INFO] 2021-07-18 12:49:09,112: Connected with: ('169.254.64.112', 63873)
+[INFO] 2021-07-18 12:49:09,113: Communication establish
+[INFO] 2021-07-18 12:49:11,448: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 12:51:37,934: Connection on Port 5005 Open
+[INFO] 2021-07-18 12:51:37,935: Waiting for connection
+[INFO] 2021-07-18 12:51:43,012: Connected with: ('169.254.64.112', 58425)
+[INFO] 2021-07-18 12:51:43,013: Communication establish
+[INFO] 2021-07-18 12:52:45,748: Data Received: test
+[INFO] 2021-07-18 12:52:45,749: Reply sent
+[INFO] 2021-07-18 12:55:25,591: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 12:55:35,809: Reply sent
+[INFO] 2021-07-18 13:31:48,351: Connection on Port 5005 Open
+[INFO] 2021-07-18 13:31:48,352: Waiting for connection
+[INFO] 2021-07-18 13:32:14,065: Connected with: ('169.254.64.112', 60481)
+[INFO] 2021-07-18 13:32:14,066: Communication establish
+[INFO] 2021-07-18 13:32:14,084: Data Received: 
+[INFO] 2021-07-18 13:32:14,085: Reply sent
+[INFO] 2021-07-18 13:32:14,086: Data Received: 
+[INFO] 2021-07-18 13:34:55,867: Connection on Port 5005 Open
+[INFO] 2021-07-18 13:34:55,868: Waiting for connection
+[INFO] 2021-07-18 13:34:59,064: Connected with: ('169.254.64.112', 55077)
+[INFO] 2021-07-18 13:34:59,065: Communication establish
+[INFO] 2021-07-18 13:35:02,577: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 13:36:05,632: Connection on Port 5005 Open
+[INFO] 2021-07-18 13:36:05,632: Waiting for connection
+[INFO] 2021-07-18 13:36:07,965: Connected with: ('169.254.64.112', 51963)
+[INFO] 2021-07-18 13:36:07,966: Communication establish
+[INFO] 2021-07-18 13:36:15,106: Data Received: REPEAT test
+[INFO] 2021-07-18 13:36:15,107: Reply sent
+[INFO] 2021-07-18 13:36:16,148: Data Received: sdfsdf
+[INFO] 2021-07-18 13:36:16,149: Reply sent
+[INFO] 2021-07-18 13:36:16,679: Data Received: sdfqsdf
+[INFO] 2021-07-18 13:36:16,680: Reply sent
+[INFO] 2021-07-18 13:36:16,793: Data Received: qsd
+[INFO] 2021-07-18 13:36:16,793: Reply sent
+[INFO] 2021-07-18 13:36:16,948: Data Received: fqs
+[INFO] 2021-07-18 13:36:16,949: Reply sent
+[INFO] 2021-07-18 13:36:17,123: Data Received: fsqd
+[INFO] 2021-07-18 13:36:17,124: Reply sent
+[INFO] 2021-07-18 13:36:17,674: Data Received: fsdf
+[INFO] 2021-07-18 13:36:17,675: Reply sent
+[INFO] 2021-07-18 13:36:18,234: Data Received: sdf
+[INFO] 2021-07-18 13:36:18,235: Reply sent
+[INFO] 2021-07-18 13:36:18,922: Data Received: sdfsdf
+[INFO] 2021-07-18 13:36:18,923: Reply sent
+[INFO] 2021-07-18 13:36:19,666: Data Received: sdfsdf
+[INFO] 2021-07-18 13:36:19,667: Reply sent
+[INFO] 2021-07-18 13:36:20,443: Data Received: sdfsdf
+[INFO] 2021-07-18 13:36:20,443: Reply sent
+[INFO] 2021-07-18 13:36:25,618: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 13:37:49,890: Connection on Port 5005 Open
+[ERROR] 2021-07-18 13:37:49,892: Can't open connection
+[ERROR] 2021-07-18 13:37:49,892: No Connection, Can't establish the communications
+[INFO] 2021-07-18 13:37:54,494: Connection on Port 5005 Open
+[ERROR] 2021-07-18 13:37:54,495: Can't open connection
+[ERROR] 2021-07-18 13:37:54,496: No Connection, Can't establish the communications
+[INFO] 2021-07-18 14:39:19,711: Connection on Port 5005 Open
+[INFO] 2021-07-18 14:39:19,714: Waiting for connection
+[INFO] 2021-07-18 14:39:24,706: Connected with: ('169.254.64.112', 51378)
+[INFO] 2021-07-18 14:39:24,707: Communication establish
+[INFO] 2021-07-18 14:39:26,667: Data Received: test
+[INFO] 2021-07-18 14:39:26,668: Reply sent
+[INFO] 2021-07-18 14:39:34,162: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 14:40:53,415: Connection on Port 5005 Open
+[INFO] 2021-07-18 14:40:53,416: Waiting for connection
+[INFO] 2021-07-18 14:40:55,628: Connected with: ('169.254.64.112', 62828)
+[INFO] 2021-07-18 14:40:55,629: Communication establish
+[INFO] 2021-07-18 14:41:05,437: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 14:41:15,659: Reply sent
+[INFO] 2021-07-18 14:52:04,216: Connection on Port 5005 Open
+[INFO] 2021-07-18 14:52:04,216: Waiting for connection
+[INFO] 2021-07-18 14:52:08,938: Connected with: ('169.254.64.112', 55308)
+[INFO] 2021-07-18 14:52:08,939: Communication establish
+[INFO] 2021-07-18 14:52:16,011: Data Received: DOWNLINK_ILAGE
+[INFO] 2021-07-18 14:52:16,012: Reply sent
+[INFO] 2021-07-18 14:52:20,035: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 14:52:30,257: Reply sent
+[INFO] 2021-07-18 14:53:05,251: Data Received: LOGOUT
+[INFO] 2021-07-18 14:53:08,464: Connection on Port 5005 Open
+[INFO] 2021-07-18 14:53:08,465: Waiting for connection
+[INFO] 2021-07-18 14:53:11,007: Connected with: ('169.254.64.112', 52751)
+[INFO] 2021-07-18 14:53:11,008: Communication establish
+[INFO] 2021-07-18 14:53:18,076: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 14:53:28,304: Reply sent
+[INFO] 2021-07-18 14:54:23,392: Connection on Port 5005 Open
+[INFO] 2021-07-18 14:54:23,392: Waiting for connection
+[INFO] 2021-07-18 14:54:25,544: Connected with: ('169.254.64.112', 61598)
+[INFO] 2021-07-18 14:54:25,545: Communication establish
+[INFO] 2021-07-18 14:54:32,119: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 14:54:42,345: Reply sent
+[INFO] 2021-07-18 15:10:10,432: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:10:20,649: Reply sent
+[INFO] 2021-07-18 15:10:31,433: Data Received: LOGOUT
+[INFO] 2021-07-18 15:10:34,831: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:10:34,832: Waiting for connection
+[INFO] 2021-07-18 15:10:37,205: Connected with: ('169.254.64.112', 49981)
+[INFO] 2021-07-18 15:10:37,205: Communication establish
+[INFO] 2021-07-18 15:10:40,929: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:10:51,153: Reply sent
+[INFO] 2021-07-18 15:12:36,906: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:12:47,135: Reply sent
+[INFO] 2021-07-18 15:13:58,731: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:13:58,732: Waiting for connection
+[INFO] 2021-07-18 15:14:02,508: Connected with: ('169.254.64.112', 54206)
+[INFO] 2021-07-18 15:14:02,509: Communication establish
+[INFO] 2021-07-18 15:14:06,894: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:14:17,130: Reply sent
+[INFO] 2021-07-18 15:21:52,151: Data Received: LOGOUT
+[INFO] 2021-07-18 15:21:56,489: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:21:56,496: Waiting for connection
+[INFO] 2021-07-18 15:21:58,563: Connected with: ('169.254.64.112', 54318)
+[INFO] 2021-07-18 15:21:58,564: Communication establish
+[INFO] 2021-07-18 15:22:00,158: Data Received: test
+[INFO] 2021-07-18 15:22:00,159: Reply sent
+[INFO] 2021-07-18 15:22:01,281: Data Received: sdf
+[INFO] 2021-07-18 15:22:01,281: Reply sent
+[INFO] 2021-07-18 15:22:01,872: Data Received: sdf
+[INFO] 2021-07-18 15:22:01,873: Reply sent
+[INFO] 2021-07-18 15:22:04,015: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:22:14,209: Reply sent
+[INFO] 2021-07-18 15:22:25,216: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:22:35,454: Reply sent
+[INFO] 2021-07-18 15:22:57,128: Data Received: LOGOUT
+[INFO] 2021-07-18 15:28:27,125: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:28:27,126: Waiting for connection
+[INFO] 2021-07-18 15:28:29,234: Connected with: ('169.254.64.112', 54228)
+[INFO] 2021-07-18 15:28:29,235: Communication establish
+[INFO] 2021-07-18 15:28:32,615: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:29:25,335: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:29:25,336: Waiting for connection
+[INFO] 2021-07-18 15:29:27,269: Connected with: ('169.254.64.112', 58405)
+[INFO] 2021-07-18 15:29:27,269: Communication establish
+[INFO] 2021-07-18 15:29:34,250: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:30:00,115: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:30:00,116: Waiting for connection
+[INFO] 2021-07-18 15:30:02,412: Connected with: ('169.254.64.112', 51352)
+[INFO] 2021-07-18 15:30:02,413: Communication establish
+[INFO] 2021-07-18 15:30:10,846: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:30:21,072: Reply sent
+[INFO] 2021-07-18 15:35:27,487: Data Received: LOGOUT
+[INFO] 2021-07-18 15:35:30,792: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:35:30,793: Waiting for connection
+[INFO] 2021-07-18 15:35:32,822: Connected with: ('169.254.64.112', 49525)
+[INFO] 2021-07-18 15:35:32,822: Communication establish
+[INFO] 2021-07-18 15:35:40,041: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:35:50,256: Reply sent
+[INFO] 2021-07-18 15:38:34,243: Data Received: LOGOUT
+[INFO] 2021-07-18 15:41:23,198: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:41:23,199: Waiting for connection
+[INFO] 2021-07-18 15:41:40,437: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:41:40,444: Waiting for connection
+[INFO] 2021-07-18 15:41:42,502: Connected with: ('169.254.64.112', 54338)
+[INFO] 2021-07-18 15:41:42,503: Communication establish
+[INFO] 2021-07-18 15:41:44,935: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:41:55,128: Reply sent
+[INFO] 2021-07-18 15:42:41,264: Data Received: LOGOUT
+[INFO] 2021-07-18 15:45:03,074: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:45:03,081: Waiting for connection
+[INFO] 2021-07-18 15:45:04,640: Connected with: ('169.254.64.112', 64532)
+[INFO] 2021-07-18 15:45:04,641: Communication establish
+[INFO] 2021-07-18 15:45:08,931: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:45:19,120: Reply sent
+[INFO] 2021-07-18 15:45:51,354: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:45:51,354: Waiting for connection
+[INFO] 2021-07-18 15:45:54,003: Connected with: ('169.254.64.112', 64537)
+[INFO] 2021-07-18 15:45:54,004: Communication establish
+[INFO] 2021-07-18 15:46:18,289: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:46:18,290: Waiting for connection
+[INFO] 2021-07-18 15:46:32,761: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:46:32,763: Waiting for connection
+[INFO] 2021-07-18 15:46:34,640: Connected with: ('169.254.64.112', 51116)
+[INFO] 2021-07-18 15:46:34,641: Communication establish
+[INFO] 2021-07-18 15:46:38,381: Data Received: test
+[INFO] 2021-07-18 15:46:38,381: Reply sent
+[INFO] 2021-07-18 15:46:48,669: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:46:58,892: Reply sent
+[INFO] 2021-07-18 15:48:41,208: Data Received: LOGOUT
+[INFO] 2021-07-18 15:48:44,766: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:48:44,766: Waiting for connection
+[INFO] 2021-07-18 15:48:48,217: Connected with: ('169.254.64.112', 51737)
+[INFO] 2021-07-18 15:48:48,218: Communication establish
+[INFO] 2021-07-18 15:48:50,263: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:49:00,441: Reply sent
+[INFO] 2021-07-18 15:49:42,022: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:49:42,023: Waiting for connection
+[INFO] 2021-07-18 15:49:44,478: Connected with: ('169.254.64.112', 58571)
+[INFO] 2021-07-18 15:49:44,479: Communication establish
+[INFO] 2021-07-18 15:49:57,506: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:50:07,724: Reply sent
+[INFO] 2021-07-18 15:50:21,496: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:50:31,712: Reply sent
+[INFO] 2021-07-18 15:50:42,985: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:50:53,207: Reply sent
+[INFO] 2021-07-18 15:51:09,098: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:51:19,324: Reply sent
+[INFO] 2021-07-18 15:51:19,325: Data Received: 
+[INFO] 2021-07-18 15:51:36,476: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:51:36,477: Waiting for connection
+[INFO] 2021-07-18 15:51:40,440: Connected with: ('169.254.64.112', 61426)
+[INFO] 2021-07-18 15:51:40,440: Communication establish
+[INFO] 2021-07-18 15:51:42,715: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:51:52,898: Reply sent
+[INFO] 2021-07-18 15:52:00,667: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:52:10,915: Reply sent
+[INFO] 2021-07-18 15:52:10,916: Data Received: 
+[INFO] 2021-07-18 15:56:09,803: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:56:09,812: Waiting for connection
+[INFO] 2021-07-18 15:56:12,249: Connected with: ('169.254.64.112', 52039)
+[INFO] 2021-07-18 15:56:12,249: Communication establish
+[INFO] 2021-07-18 15:56:15,192: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:56:25,371: Reply sent
+[INFO] 2021-07-18 15:57:05,825: Data Received: LOGOUT
+[INFO] 2021-07-18 15:57:08,553: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:57:08,555: Waiting for connection
+[INFO] 2021-07-18 15:57:11,157: Connected with: ('169.254.64.112', 52044)
+[INFO] 2021-07-18 15:57:11,161: Communication establish
+[INFO] 2021-07-18 15:57:12,401: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:57:22,594: Reply sent
+[INFO] 2021-07-18 15:57:31,274: Data Received: DOWNLINK_IMAGE
+                                                                                                                                                    [INFO] 2021-07-18 15:17:56,467: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:17:56,470: Waiting for connection
+[INFO] 2021-07-18 15:18:02,109: Connected with: ('169.254.64.112', 60680)
+[INFO] 2021-07-18 15:18:02,109: Communication establish
+[INFO] 2021-07-18 15:18:16,757: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:18:28,028: Reply sent
+[INFO] 2021-07-18 15:18:49,188: Data Received: TIME_LAPSE_RECORDING_START
+[INFO] 2021-07-18 15:18:49,216: Time Lapse started
+[INFO] 2021-07-18 15:18:49,219: Reply sent
+[INFO] 2021-07-18 15:19:15,884: Data Received: GET_STATE
+[INFO] 2021-07-18 15:19:15,886: Reply sent
+[INFO] 2021-07-18 15:19:20,103: Data Received: TIME_LAPSE_RECORDING_STOP
+[INFO] 2021-07-18 15:19:20,110: Reply sent
+[INFO] 2021-07-18 15:19:28,125: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:19:38,322: Reply sent
+[INFO] 2021-07-18 15:19:49,629: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:19:59,855: Reply sent
+[INFO] 2021-07-18 15:19:59,856: Data Received: 
+[INFO] 2021-07-18 15:28:39,582: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:28:39,582: Waiting for connection
+[INFO] 2021-07-18 15:28:42,871: Connected with: ('169.254.64.112', 59656)
+[INFO] 2021-07-18 15:28:42,872: Communication establish
+[INFO] 2021-07-18 15:28:45,943: Data Received: LOGOUT
+[INFO] 2021-07-18 15:30:44,492: Connection on Port 5005 Open
+[INFO] 2021-07-18 15:30:44,493: Waiting for connection
+[INFO] 2021-07-18 15:30:52,404: Connected with: ('169.254.64.112', 51944)
+[INFO] 2021-07-18 15:30:52,404: Communication establish
+[INFO] 2021-07-18 15:30:58,706: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:31:08,947: Reply sent
+[INFO] 2021-07-18 15:31:22,876: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:31:33,117: Reply sent
+[INFO] 2021-07-18 15:31:44,107: Data Received: DOWNLINK_IMAGE
+[INFO] 2021-07-18 15:31:54,337: Reply sent
+[INFO] 2021-07-18 15:32:10,212: Data Received: LOGOUT
+[INFO] 2021-07-20 22:31:55,694:  Connecting to: 169.254.92.26
+[ERROR] 2021-07-20 22:31:55,695:  Can't connect to the server: 169.254.92.26
+[ERROR] 2021-07-20 22:31:55,695:  No connection detected
+[INFO] 2021-07-20 22:43:45,382:  Connecting to: 169.254.92.26
+[INFO] 2021-07-20 22:43:45,383:  Connection established
+[INFO] 2021-07-20 22:43:48,137:  Data send: test
+[INFO] 2021-07-20 22:43:48,138:  Received data: No command found
+[INFO] 2021-07-20 22:43:55,655:  Data send: REPEAT test
+[INFO] 2021-07-20 22:43:55,656:  Received data: test
+[INFO] 2021-07-20 22:44:40,927:  Data send: LOGOUT
+[INFO] 2021-07-20 22:44:40,928:  Connection closed
+[INFO] 2021-07-20 22:44:58,575:  Connecting to: 169.254.92.26
+[INFO] 2021-07-20 22:44:58,576:  Connection established
+[INFO] 2021-07-20 22:45:01,591:  Data send: tets
+[INFO] 2021-07-20 22:45:01,593:  Received data: No command found
+[INFO] 2021-07-20 22:45:44,874:  Data send: GET_STATE
+[INFO] 2021-07-20 22:45:44,877:  Received data: 
+Current state of the system:
+SAVE TEMP: False
+SAVE CURRENT: False
+AUTO HEAT: False
+IN RECORD: False
+IN TIMELAPSE: False
+[INFO] 2021-07-20 22:47:50,344:  Data send: TIME_LAPSE_RECORDING_START
+[INFO] 2021-07-20 22:47:50,374:  Received data: Time Lapse started
+[INFO] 2021-07-20 22:48:59,240:  Data send: LOGOUT
+[INFO] 2021-07-20 22:48:59,241:  Connection closed
+[INFO] 2021-07-20 22:49:07,745:  Connecting to: 169.254.92.26
+[INFO] 2021-07-20 22:49:07,746:  Connection established
+[INFO] 2021-07-20 22:49:14,560:  Data send: TIME_LAPSE_RECORDING_START
+[INFO] 2021-07-20 22:49:14,588:  Received data: Time Lapse started
+[INFO] 2021-07-20 22:49:58,116:  Data send: TIME_LAPSE_RECORDING_STOP
+[INFO] 2021-07-20 22:49:58,119:  Received data: Time Lapse stopped
+[INFO] 2021-07-20 22:52:22,596:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-20 22:53:06,678:  Data send: GET_STATE
+[INFO] 2021-07-20 22:53:06,681:  Received data: 
+Current state of the system:
+SAVE TEMP: False
+SAVE CURRENT: False
+AUTO HEAT: False
+IN RECORD: False
+IN TIMELAPSE: False
+[INFO] 2021-07-20 22:53:13,988:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-20 22:59:25,126:  Data send: LOGOUT
+[INFO] 2021-07-20 22:59:25,127:  Connection closed
+[INFO] 2021-07-20 22:59:35,445:  Connecting to: 169.254.92.26
+[ERROR] 2021-07-20 22:59:37,476:  Can't connect to the server: 169.254.92.26
+[ERROR] 2021-07-20 22:59:37,477:  No connection detected
+[INFO] 2021-07-20 22:59:46,336:  Connecting to: 169.254.92.26
+[INFO] 2021-07-20 22:59:46,338:  Connection established
+[INFO] 2021-07-20 22:59:48,363:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-20 23:01:48,032:  Data send: ts
+[INFO] 2021-07-20 23:01:48,033:  Received data: 
+[ERROR] 2021-07-20 23:01:55,034:  Can't send the message
+[INFO] 2021-07-27 15:50:10,805: Connection on Port 5005 Open
+[INFO] 2021-07-27 15:50:10,808: Waiting for connection
+[INFO] 2021-07-27 21:30:07,681: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:30:07,681: Waiting for connection
+[INFO] 2021-07-27 21:30:18,374: Connected with: ('169.254.64.112', 52531)
+[INFO] 2021-07-27 21:30:18,375: Communication establish
+[INFO] 2021-07-27 21:30:20,450: Data Received: test
+[INFO] 2021-07-27 21:30:20,451: Reply sent
+[INFO] 2021-07-27 21:30:49,213: Data Received: AUTO_MODE_START
+[INFO] 2021-07-27 21:31:09,387: Reply sent
+[INFO] 2021-07-27 21:32:48,947: Data Received: LOGOUT
+[INFO] 2021-07-27 21:33:57,162: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:33:57,163: Waiting for connection
+[INFO] 2021-07-27 21:33:59,252: Connected with: ('169.254.64.112', 62026)
+[INFO] 2021-07-27 21:33:59,253: Communication establish
+[INFO] 2021-07-27 21:34:02,293: Data Received: AUTO_MODE_START
+[INFO] 2021-07-27 21:34:37,407: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:34:37,407: Waiting for connection
+[INFO] 2021-07-27 21:34:39,084: Connected with: ('169.254.64.112', 62029)
+[INFO] 2021-07-27 21:34:39,085: Communication establish
+[INFO] 2021-07-27 21:34:41,241: Data Received: AUTO_MODE_START
+[INFO] 2021-07-27 21:34:41,243: Reply sent
+[INFO] 2021-07-27 21:34:43,575: Data Received: test
+[INFO] 2021-07-27 21:34:43,575: Reply sent
+[INFO] 2021-07-27 21:35:16,919: Data Received: LOGOUT
+[INFO] 2021-07-27 21:35:20,091: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:35:20,103: Waiting for connection
+[INFO] 2021-07-27 21:35:21,850: Connected with: ('169.254.64.112', 62034)
+[INFO] 2021-07-27 21:35:21,851: Communication establish
+[INFO] 2021-07-27 21:35:23,977: Data Received: AUTO_MODE_START
+[INFO] 2021-07-27 21:35:24,011: Reply sent
+[INFO] 2021-07-27 21:35:41,428: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:36:03,314: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:36:03,314: Waiting for connection
+[INFO] 2021-07-27 21:36:05,900: Connected with: ('169.254.64.112', 64155)
+[INFO] 2021-07-27 21:36:05,900: Communication establish
+[INFO] 2021-07-27 21:36:18,347: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:39:37,099: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:39:37,099: Waiting for connection
+[INFO] 2021-07-27 21:39:41,261: Connected with: ('169.254.64.112', 52981)
+[INFO] 2021-07-27 21:39:41,264: Communication establish
+[INFO] 2021-07-27 21:39:45,042: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:40:37,558: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:40:37,559: Waiting for connection
+[INFO] 2021-07-27 21:40:38,865: Connected with: ('169.254.64.112', 59439)
+[INFO] 2021-07-27 21:40:38,866: Communication establish
+[INFO] 2021-07-27 21:40:42,949: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:42:27,158: Connection on Port 5005 Open
+[ERROR] 2021-07-27 21:42:27,159: Can't open connection
+[ERROR] 2021-07-27 21:42:27,159: No Connection, Can't establish the communications
+[INFO] 2021-07-27 21:44:01,697: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:44:01,699: Waiting for connection
+[INFO] 2021-07-27 21:44:03,821: Connected with: ('169.254.64.112', 62027)
+[INFO] 2021-07-27 21:44:03,822: Communication establish
+[INFO] 2021-07-27 21:44:06,273: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:47:23,817: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:47:23,819: Waiting for connection
+[INFO] 2021-07-27 21:47:34,807: Connected with: ('169.254.64.112', 55073)
+[INFO] 2021-07-27 21:47:34,808: Communication establish
+[INFO] 2021-07-27 21:47:54,089: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:47:54,128: Reply sent
+[INFO] 2021-07-27 21:47:57,722: Data Received: test
+[INFO] 2021-07-27 21:47:57,723: Reply sent
+[INFO] 2021-07-27 21:48:06,990: Data Received: AUTO_MODE_START
+[INFO] 2021-07-27 21:48:07,018: Reply sent
+[INFO] 2021-07-27 21:48:09,368: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:09,408: Reply sent
+[INFO] 2021-07-27 21:48:12,951: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:12,976: Reply sent
+[INFO] 2021-07-27 21:48:13,940: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:13,971: Reply sent
+[INFO] 2021-07-27 21:48:14,549: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:14,587: Reply sent
+[INFO] 2021-07-27 21:48:15,169: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:15,186: Reply sent
+[INFO] 2021-07-27 21:48:17,099: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:17,129: Reply sent
+[INFO] 2021-07-27 21:48:17,710: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:17,727: Reply sent
+[INFO] 2021-07-27 21:48:18,184: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:18,213: Reply sent
+[INFO] 2021-07-27 21:48:18,635: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:18,657: Reply sent
+[INFO] 2021-07-27 21:48:19,103: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:19,137: Reply sent
+[INFO] 2021-07-27 21:48:19,558: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:48:19,581: Reply sent
+[INFO] 2021-07-27 21:49:36,537: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:49:36,580: Reply sent
+[INFO] 2021-07-27 21:49:46,503: Data Received: ADD_COMMAND test
+[INFO] 2021-07-27 21:50:29,937: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:50:29,937: Waiting for connection
+[INFO] 2021-07-27 21:50:31,996: Connected with: ('169.254.64.112', 64178)
+[INFO] 2021-07-27 21:50:31,997: Communication establish
+[INFO] 2021-07-27 21:50:42,562: Data Received: ADD_COMMAND TEST 10
+[INFO] 2021-07-27 21:51:24,494: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:51:24,494: Waiting for connection
+[INFO] 2021-07-27 21:51:27,007: Connected with: ('169.254.64.112', 54637)
+[INFO] 2021-07-27 21:51:27,008: Communication establish
+[INFO] 2021-07-27 21:51:29,881: Data Received: test
+[INFO] 2021-07-27 21:51:29,882: Reply sent
+[INFO] 2021-07-27 21:51:42,111: Data Received: test 10
+[INFO] 2021-07-27 21:51:42,112: Reply sent
+[INFO] 2021-07-27 21:51:46,556: Data Received: test 10 12
+[INFO] 2021-07-27 21:51:46,557: Reply sent
+[INFO] 2021-07-27 21:51:51,527: Data Received: test 10 12 14
+[INFO] 2021-07-27 21:51:51,529: Reply sent
+[INFO] 2021-07-27 21:55:10,663: Data Received: LOGOUT
+[INFO] 2021-07-27 21:55:49,961: Connection on Port 5005 Open
+[INFO] 2021-07-27 21:55:49,962: Waiting for connection
+[INFO] 2021-07-27 21:55:52,437: Connected with: ('169.254.64.112', 61742)
+[INFO] 2021-07-27 21:55:52,438: Communication establish
+[INFO] 2021-07-27 21:56:01,007: Data Received: ADD_COMMAND TEST
+[INFO] 2021-07-27 21:56:01,035: Reply sent
+[INFO] 2021-07-27 21:56:11,046: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 21:56:11,086: Reply sent
+[INFO] 2021-07-27 22:00:48,348: Data Received: DELETE_COMMAND 2
+[INFO] 2021-07-27 22:00:48,363: Reply sent
+[INFO] 2021-07-27 22:00:51,886: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 22:00:51,929: Reply sent
+[INFO] 2021-07-27 22:01:32,142: Connection on Port 5005 Open
+[INFO] 2021-07-27 22:01:32,142: Waiting for connection
+[INFO] 2021-07-27 22:01:34,287: Connected with: ('169.254.64.112', 55490)
+[INFO] 2021-07-27 22:01:34,288: Communication establish
+[INFO] 2021-07-27 22:01:39,939: Data Received: ADD_COMMAND TEST
+[INFO] 2021-07-27 22:01:39,966: Reply sent
+[INFO] 2021-07-27 22:01:45,447: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 22:01:45,494: Reply sent
+[INFO] 2021-07-27 22:01:51,834: Data Received: DELETE_COMMAND 2
+[INFO] 2021-07-27 22:01:51,840: Reply sent
+[INFO] 2021-07-27 22:01:54,877: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 22:01:54,918: Reply sent
+[INFO] 2021-07-27 22:02:11,413: Data Received: SAVE_COMMAND_HISTORY
+[INFO] 2021-07-27 22:02:11,418: Reply sent
+[INFO] 2021-07-27 22:08:02,207: Data Received: LOGOUT
+[INFO] 2021-07-27 22:08:05,930: Connection on Port 5005 Open
+[INFO] 2021-07-27 22:08:05,932: Waiting for connection
+[INFO] 2021-07-27 22:08:07,003: Connected with: ('169.254.64.112', 62127)
+[INFO] 2021-07-27 22:08:07,005: Communication establish
+[INFO] 2021-07-27 22:08:13,947: Data Received: ADD_COMMAND 123
+[INFO] 2021-07-27 22:08:13,948: Reply sent
+[INFO] 2021-07-27 22:08:34,172: Data Received: ADD_COMMAND 123 123
+[INFO] 2021-07-27 22:08:34,174: Reply sent
+[INFO] 2021-07-27 22:08:43,003: Data Received: ADD_COMMAND 1231444
+[INFO] 2021-07-27 22:08:43,005: Reply sent
+[INFO] 2021-07-27 22:09:31,230: Data Received: LOGOUT
+[INFO] 2021-07-27 22:09:34,339: Connection on Port 5005 Open
+[INFO] 2021-07-27 22:09:34,339: Waiting for connection
+[INFO] 2021-07-27 22:09:35,210: Connected with: ('169.254.64.112', 54930)
+[INFO] 2021-07-27 22:09:35,210: Communication establish
+[INFO] 2021-07-27 22:09:38,916: Data Received: ADD_COMMAND 1231444
+[INFO] 2021-07-27 22:10:12,116: Connection on Port 5005 Open
+[INFO] 2021-07-27 22:10:12,117: Waiting for connection
+[INFO] 2021-07-27 22:10:14,032: Connected with: ('169.254.64.112', 62499)
+[INFO] 2021-07-27 22:10:14,033: Communication establish
+[INFO] 2021-07-27 22:10:15,481: Data Received: test
+[INFO] 2021-07-27 22:10:15,482: Reply sent
+[INFO] 2021-07-27 22:10:19,695: Data Received: ADD_COMMAND 123
+[INFO] 2021-07-27 22:10:19,718: Reply sent
+[INFO] 2021-07-27 22:10:32,586: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 22:10:32,635: Reply sent
+[INFO] 2021-07-27 22:10:37,865: Data Received: ADD_COMMAND 123 2
+[INFO] 2021-07-27 22:10:37,880: Reply sent
+[INFO] 2021-07-27 22:10:41,615: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 22:10:41,654: Reply sent
+[INFO] 2021-07-27 22:11:02,618: Data Received: DELETE_COMMAND 0
+[INFO] 2021-07-27 22:11:02,624: Reply sent
+[INFO] 2021-07-27 22:11:04,169: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 22:11:04,216: Reply sent
+[INFO] 2021-07-27 22:11:10,225: Data Received: DELETE_COMMAND 0
+[INFO] 2021-07-27 22:11:10,230: Reply sent
+[INFO] 2021-07-27 22:11:11,044: Data Received: DELETE_COMMAND 0
+[INFO] 2021-07-27 22:11:11,047: Reply sent
+[INFO] 2021-07-27 22:11:11,596: Data Received: DELETE_COMMAND 0
+[INFO] 2021-07-27 22:11:11,599: Reply sent
+[INFO] 2021-07-27 22:11:12,848: Data Received: DELETE_COMMAND 0
+[INFO] 2021-07-27 22:11:12,850: Reply sent
+[INFO] 2021-07-27 22:11:15,120: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 22:11:15,129: Reply sent
+[INFO] 2021-07-27 22:11:35,488: Data Received: SAVE_COMMAND_HISTORY
+[INFO] 2021-07-27 22:11:35,491: Reply sent
+[INFO] 2021-07-27 22:11:38,743: Data Received: LOGOUT
+[INFO] 2021-07-27 22:11:41,904: Connection on Port 5005 Open
+[INFO] 2021-07-27 22:11:41,905: Waiting for connection
+[INFO] 2021-07-27 22:11:44,339: Connected with: ('169.254.64.112', 52785)
+[INFO] 2021-07-27 22:11:44,340: Communication establish
+[INFO] 2021-07-27 22:11:47,887: Data Received: GET_AUTO_MODE_LIST
+[INFO] 2021-07-27 22:11:47,896: Reply sent
+[INFO] 2021-07-27 22:11:58,941: Data Received: LOGOUT
+[INFO] 2021-07-28 15:33:10,904:  Connecting to: 169.254.92.26
+[INFO] 2021-07-28 15:33:10,904:  Connection established
+[INFO] 2021-07-28 15:33:25,293:  Data send: test
+[INFO] 2021-07-28 15:33:25,293:  Received data: No command found
+[INFO] 2021-07-28 15:33:30,003:  Data send: LOGOUT
+[INFO] 2021-07-28 15:33:30,003:  Connection closed
+[INFO] 2021-07-29 19:39:09,216:  Connecting to: 169.254.92.26
+[ERROR] 2021-07-29 19:39:11,222:  Can't connect to the server: 169.254.92.26
+[ERROR] 2021-07-29 19:39:11,223:  No connection detected
+[INFO] 2021-07-29 19:39:19,973:  Connecting to: 169.254.92.26
+[ERROR] 2021-07-29 19:39:21,979:  Can't connect to the server: 169.254.92.26
+[ERROR] 2021-07-29 19:39:21,980:  No connection detected
+[INFO] 2021-07-29 19:39:46,154:  Connecting to: 169.254.92.26
+[INFO] 2021-07-29 19:39:46,155:  Connection established
+[INFO] 2021-07-29 19:42:10,938:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-29 19:42:10,953:  Received data: Empty DataFrame
+Columns: [command, length]
+Index: []
+[INFO] 2021-07-29 19:43:18,735:  Data send: ADD_COMMAND SAVE_TEMP None
+[INFO] 2021-07-29 19:43:18,754:  Received data: command added
+[INFO] 2021-07-29 19:43:20,961:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-29 19:43:21,012:  Received data:      command length
+0  SAVE_TEMP   None
+[INFO] 2021-07-29 19:43:37,622:  Data send: ADD_COMMAND TEST123 3
+[INFO] 2021-07-29 19:43:37,638:  Received data: command added
+[INFO] 2021-07-29 19:43:39,147:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-29 19:43:39,183:  Received data:      command length
+0  SAVE_TEMP   None
+1    TEST123      3
+[INFO] 2021-07-29 19:44:22,497:  Data send: SAVE_COMMAND_HISTORY
+[INFO] 2021-07-29 19:44:22,500:  Received data: History saved
+[INFO] 2021-07-29 19:44:26,022:  Data send: LOGOUT
+[INFO] 2021-07-29 19:44:26,022:  Connection closed
+[INFO] 2021-07-29 19:44:37,480:  Connecting to: 169.254.92.26
+[INFO] 2021-07-29 19:44:37,480:  Connection established
+[INFO] 2021-07-29 19:44:39,823:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-29 19:44:39,862:  Received data:      command length
+0  SAVE_TEMP   None
+1    TEST123      3
+[INFO] 2021-07-29 19:45:23,776:  Data send: DELETE_COMMAND 0
+[INFO] 2021-07-29 19:45:23,788:  Received data: command deleted
+[INFO] 2021-07-29 19:45:25,754:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-29 19:45:25,793:  Received data:    command length
+0  TEST123      3
+[INFO] 2021-07-29 19:49:07,146:  Data send: ADD_COMMAND TEST321 5
+[INFO] 2021-07-29 19:49:07,168:  Received data: command added
+[INFO] 2021-07-29 19:49:10,027:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-29 19:49:10,071:  Received data:    command length
+0  TEST123      3
+1  TEST321      5
+[INFO] 2021-07-29 19:49:24,195:  Data send: AUTO_MODE_START
+[INFO] 2021-07-29 19:49:24,225:  Received data: Auto Mode On
+[INFO] 2021-07-29 19:49:49,653:  Data send: GET_STATE
+[INFO] 2021-07-29 19:49:49,656:  Received data: 
+Current state of the system:
+SAVE TEMP: False
+SAVE CURRENT: False
+AUTO HEAT: False
+IN RECORD: False
+IN TIMELAPSE: False
+[INFO] 2021-07-29 19:50:04,860:  Data send: AUTO_MODE_STOP
+[INFO] 2021-07-29 19:50:04,861:  Received data: Auto Mode Off
+[ERROR] 2021-07-30 16:47:26,982:  Can't send the message
+[INFO] 2021-07-30 16:52:56,025:  Connecting to: 169.254.92.26
+[INFO] 2021-07-30 16:52:56,040:  Connection established
+[INFO] 2021-07-30 16:53:06,737:  Data send: test
+[INFO] 2021-07-30 16:53:06,739:  Received data: No command found
+[INFO] 2021-07-30 16:53:14,260:  Data send: LOGOUT
+[INFO] 2021-07-30 16:53:14,260:  Connection closed
+[INFO] 2021-07-30 16:53:30,572:  Connecting to: 169.254.92.26
+[INFO] 2021-07-30 16:53:31,080:  Connection established
+[INFO] 2021-07-30 16:53:32,369:  Data send: re
+[INFO] 2021-07-30 16:53:32,373:  Received data: No command found
+[INFO] 2021-07-30 16:53:33,684:  Data send: er
+[INFO] 2021-07-30 16:53:33,685:  Received data: No command found
+[INFO] 2021-07-30 16:53:34,307:  Data send: r
+[INFO] 2021-07-30 16:53:34,308:  Received data: No command found
+[INFO] 2021-07-30 16:53:34,801:  Data send: r
+[INFO] 2021-07-30 16:53:34,802:  Received data: No command found
+[INFO] 2021-07-30 16:53:35,204:  Data send: r
+[INFO] 2021-07-30 16:53:35,206:  Received data: No command found
+[INFO] 2021-07-30 16:53:35,572:  Data send: f
+[INFO] 2021-07-30 16:53:35,574:  Received data: No command found
+[INFO] 2021-07-30 16:53:35,896:  Data send: f
+[INFO] 2021-07-30 16:53:35,897:  Received data: No command found
+[INFO] 2021-07-30 16:55:20,667:  Data send: LOGOUT
+[INFO] 2021-07-30 16:55:20,667:  Connection closed
+[INFO] 2021-07-30 17:07:26,314:  Connecting to: 169.254.92.26
+[INFO] 2021-07-30 17:07:26,315:  Connection established
+[INFO] 2021-07-30 17:07:43,370:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:07:43,425:  Received data:      command length
+0  SAVE_TEMP   None
+1    TEST123      3
+[INFO] 2021-07-30 17:07:52,348:  Data send: ADD_COMMAND test 23
+[INFO] 2021-07-30 17:07:52,369:  Received data: command added
+[INFO] 2021-07-30 17:07:55,708:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:07:55,743:  Received data:      command length
+0  SAVE_TEMP   None
+1    TEST123      3
+2       test     23
+[INFO] 2021-07-30 17:08:07,525:  Data send: AUTO_MODE_START
+[INFO] 2021-07-30 17:08:07,562:  Received data: Auto Mode On
+[INFO] 2021-07-30 17:09:02,700:  Data send: DELETE_COMMAND 0
+[INFO] 2021-07-30 17:09:02,713:  Received data: command deleted
+[INFO] 2021-07-30 17:09:05,718:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:05,769:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:09:09,507:  Data send: AUTO_MODE_START
+[INFO] 2021-07-30 17:09:09,531:  Received data: Auto Mode On
+[INFO] 2021-07-30 17:09:12,422:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:12,475:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:09:14,305:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:14,349:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:09:15,761:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:15,808:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:09:16,713:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:16,754:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:09:17,383:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:17,401:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:09:17,962:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:17,998:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:09:18,549:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:18,571:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:09:19,148:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:19,180:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:09:28,758:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:28,799:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:09:29,749:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:09:29,794:  Received data:    command length
+0  TEST123      3
+1     test     23
+[INFO] 2021-07-30 17:10:35,603:  Data send: DELETE_COMMAND 0
+[INFO] 2021-07-30 17:10:35,612:  Received data: command deleted
+[INFO] 2021-07-30 17:10:38,467:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:10:38,499:  Received data:   command length
+0    test     23
+[INFO] 2021-07-30 17:10:42,077:  Data send: DELETE_COMMAND 0
+[INFO] 2021-07-30 17:10:42,082:  Received data: command deleted
+[INFO] 2021-07-30 17:10:44,680:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:10:44,690:  Received data: Empty DataFrame
+Columns: [command, length]
+Index: []
+[INFO] 2021-07-30 17:10:50,143:  Data send: DELETE_COMMAND 0
+[INFO] 2021-07-30 17:10:50,146:  Received data: command deleted
+[INFO] 2021-07-30 17:10:54,355:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-30 17:10:54,363:  Received data: Empty DataFrame
+Columns: [command, length]
+Index: []
+[INFO] 2021-07-30 17:10:55,425:  Data send: AUTO_MODE_START
+[INFO] 2021-07-30 17:10:55,447:  Received data: Auto Mode On
+[ERROR] 2021-07-31 09:13:17,982:  Can't send the message
+[INFO] 2021-07-31 09:13:20,356:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 09:13:20,357:  Connection established
+[INFO] 2021-07-31 09:13:26,697:  Data send: trt
+[INFO] 2021-07-31 09:13:26,699:  Received data: No command found
+[INFO] 2021-07-31 09:13:33,176:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:15:35,585:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 09:15:35,586:  Connection established
+[INFO] 2021-07-31 09:15:38,012:  Data send: C:/Users/Retraint/AppData/Local/Programs/Python/Python37/python.exe c:/Users/Retraint/Desktop/BaMMsat/Client.py
+[INFO] 2021-07-31 09:15:38,014:  Received data: No command found
+[INFO] 2021-07-31 09:15:44,059:  Data send: C:/Users/Retraint/AppData/Local/Programs/Python/Python37/python.exe c:/Users/Retraint/Desktop/BaMMsat/Client.py
+[INFO] 2021-07-31 09:15:44,061:  Received data: No command found
+[INFO] 2021-07-31 09:15:52,709:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:24:26,597:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 09:24:26,599:  Connection established
+[INFO] 2021-07-31 09:24:26,981:  Data send: C:/Users/Retraint/AppData/Local/Programs/Python/Python37/python.exe c:/Users/Retraint/Desktop/BaMMsat/Client.py
+[INFO] 2021-07-31 09:24:26,982:  Received data: No command found
+[INFO] 2021-07-31 09:24:34,551:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:30:16,482:  Data send: df
+[INFO] 2021-07-31 09:30:16,484:  Received data: No command found
+[INFO] 2021-07-31 09:30:21,807:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:30:25,171:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:30:32,810:  Data send: C:/Users/Retraint/AppData/Local/Programs/Python/Python37/python.exe c:/Users/Retraint/Desktop/BaMMsat/Client.py
+[INFO] 2021-07-31 09:30:32,812:  Received data: No command found
+[INFO] 2021-07-31 09:30:36,045:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:31:23,247:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:31:51,071:  Data send: C:/Users/Retraint/AppData/Local/Programs/Python/Python37/python.exe c:/Users/Retraint/Desktop/BaMMsat/Client.py
+[INFO] 2021-07-31 09:31:51,073:  Received data: No command found
+[INFO] 2021-07-31 09:31:54,662:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:33:18,412:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:33:23,177:  Data send: LOGOUT
+[INFO] 2021-07-31 09:33:23,178:  Connection closed
+[INFO] 2021-07-31 09:33:31,548:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 09:33:31,549:  Connection established
+[INFO] 2021-07-31 09:33:33,763:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:33:47,123:  Data send: f
+[ERROR] 2021-07-31 09:33:47,126:  Can't send the message
+[INFO] 2021-07-31 09:38:30,082:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 09:38:30,083:  Connection established
+[INFO] 2021-07-31 09:38:32,729:  Data send: DOWNLINK_IMAGE
+[ERROR] 2021-07-31 09:38:49,365:  Can't send the message
+[INFO] 2021-07-31 09:40:55,833:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 09:40:55,834:  Connection established
+[INFO] 2021-07-31 09:40:59,966:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:41:12,413:  Data send: test
+[ERROR] 2021-07-31 09:41:12,413:  Can't send the message
+[INFO] 2021-07-31 09:49:40,104:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 09:49:40,104:  Connection established
+[INFO] 2021-07-31 09:49:42,259:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:49:46,867:  Data send: df
+[ERROR] 2021-07-31 09:49:46,868:  Can't send the message
+[INFO] 2021-07-31 09:50:17,196:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 09:50:17,197:  Connection established
+[INFO] 2021-07-31 09:50:19,602:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:50:25,972:  Data send: df
+[ERROR] 2021-07-31 09:50:25,972:  Can't send the message
+[INFO] 2021-07-31 09:51:58,840:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 09:51:58,841:  Connection established
+[INFO] 2021-07-31 09:52:00,582:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 09:52:05,780:  Data send: df
+[ERROR] 2021-07-31 09:52:05,780:  Can't send the message
+[INFO] 2021-07-31 09:59:34,952:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 09:59:34,953:  Connection established
+[INFO] 2021-07-31 10:00:24,205:  Data send: LOGOUT
+[INFO] 2021-07-31 10:00:24,205:  Connection closed
+[INFO] 2021-07-31 10:00:30,818:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:00:30,819:  Connection established
+[INFO] 2021-07-31 10:00:39,964:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:00:45,546:  Data send: df
+[ERROR] 2021-07-31 10:00:45,546:  Can't send the message
+[INFO] 2021-07-31 10:06:36,861:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:06:36,862:  Connection established
+[INFO] 2021-07-31 10:06:45,465:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:07:28,839:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:07:28,839:  Connection established
+[INFO] 2021-07-31 10:07:28,841:  Data send: C:/Users/Retraint/AppData/Local/Programs/Python/Python37/python.exe c:/Users/Retraint/Desktop/BaMMsat/Client.py
+[INFO] 2021-07-31 10:08:26,005:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:08:26,006:  Connection established
+[INFO] 2021-07-31 10:08:26,007:  Data send: C:/Users/Retraint/AppData/Local/Programs/Python/Python37/python.exe c:/Users/Retraint/Desktop/BaMMsat/Client.py
+[INFO] 2021-07-31 10:08:26,009:  Received data: No command found
+[INFO] 2021-07-31 10:08:39,612:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:08:45,807:  Data send: ds7
+[INFO] 2021-07-31 10:08:45,808:  Received data: No command found
+[INFO] 2021-07-31 10:08:47,165:  Data send: sd
+[INFO] 2021-07-31 10:08:47,166:  Received data: No command found
+[INFO] 2021-07-31 10:08:47,775:  Data send: sd
+[INFO] 2021-07-31 10:08:47,776:  Received data: No command found
+[INFO] 2021-07-31 10:08:54,178:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:08:57,662:  Data send: sd
+[INFO] 2021-07-31 10:08:57,663:  Received data: No command found
+[INFO] 2021-07-31 10:08:59,720:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:09:03,879:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:09:06,303:  Data send: xwc
+[INFO] 2021-07-31 10:09:06,305:  Received data: No command found
+[INFO] 2021-07-31 10:09:06,950:  Data send: wxc
+[INFO] 2021-07-31 10:09:06,951:  Received data: No command found
+[INFO] 2021-07-31 10:09:07,450:  Data send: wxc
+[INFO] 2021-07-31 10:09:07,452:  Received data: No command found
+[INFO] 2021-07-31 10:09:09,765:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:09:12,716:  Data send: c
+[ERROR] 2021-07-31 10:09:12,716:  Can't send the message
+[INFO] 2021-07-31 10:09:59,138:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:09:59,139:  Connection established
+[INFO] 2021-07-31 10:10:01,553:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:10:22,340:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:10:22,340:  Connection established
+[INFO] 2021-07-31 10:10:29,841:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:10:39,009:  Data send: sd
+[ERROR] 2021-07-31 10:10:39,009:  Can't send the message
+[INFO] 2021-07-31 10:12:01,668:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:12:01,669:  Connection established
+[INFO] 2021-07-31 10:12:03,768:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:12:07,480:  Data send: df
+[INFO] 2021-07-31 10:12:07,482:  Received data: No command found
+[INFO] 2021-07-31 10:12:10,021:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:12:12,964:  Data send: df
+[ERROR] 2021-07-31 10:12:12,964:  Can't send the message
+[INFO] 2021-07-31 10:15:20,988:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:15:20,989:  Connection established
+[INFO] 2021-07-31 10:15:32,494:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:15:37,972:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:15:41,653:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:15:44,631:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:15:47,772:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:15:50,228:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:15:52,766:  Data send: df
+[ERROR] 2021-07-31 10:15:52,766:  Can't send the message
+[INFO] 2021-07-31 10:16:23,289:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:16:23,290:  Connection established
+[INFO] 2021-07-31 10:16:27,219:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:16:31,935:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:16:34,962:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:16:37,968:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:16:42,503:  Data send: gfg
+[ERROR] 2021-07-31 10:16:42,503:  Can't send the message
+[INFO] 2021-07-31 10:19:58,636:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:19:58,637:  Connection established
+[INFO] 2021-07-31 10:20:01,123:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:20:06,765:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:20:09,323:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:20:12,539:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:20:22,149:  Data send: DOWNLINK_IMAGE
+[ERROR] 2021-07-31 10:20:22,149:  Can't send the message
+[INFO] 2021-07-31 10:21:18,960:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:21:18,961:  Connection established
+[INFO] 2021-07-31 10:21:21,590:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:21:28,681:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:21:35,664:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:21:42,254:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:21:49,442:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:21:56,313:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:22:02,222:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:22:08,698:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:22:15,341:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:22:21,683:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:22:28,851:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:22:34,734:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:22:40,325:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:22:47,387:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:22:53,586:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:23:02,727:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:29:09,282:  Data send: LOGOUT
+[INFO] 2021-07-31 10:29:09,283:  Connection closed
+[INFO] 2021-07-31 10:29:14,990:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:29:14,991:  Connection established
+[INFO] 2021-07-31 10:29:17,181:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:30:35,834:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 10:30:35,835:  Connection established
+[INFO] 2021-07-31 10:30:42,092:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 10:30:52,422:  Data send: dsf
+[INFO] 2021-07-31 10:30:52,424:  Received data: No command found
+[INFO] 2021-07-31 10:30:54,987:  Data send: dsf
+[INFO] 2021-07-31 10:30:54,989:  Received data: No command found
+[INFO] 2021-07-31 10:30:56,696:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 12:41:38,430:  Data send: sdf
+[INFO] 2021-07-31 12:41:38,433:  Received data: No command found
+[INFO] 2021-07-31 12:42:09,565:  Data send: sdf
+[INFO] 2021-07-31 12:42:09,567:  Received data: No command found
+[INFO] 2021-07-31 12:43:41,069:  Data send: DOWNLINK_IMAGE
+[INFO] 2021-07-31 12:43:56,031:  Data send: fdg
+[INFO] 2021-07-31 12:43:56,033:  Received data: No command found
+[INFO] 2021-07-31 14:28:17,254:  Data send: LOGOUT
+[INFO] 2021-07-31 14:28:17,256:  Connection closed
+[INFO] 2021-07-31 14:29:33,809:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 14:29:33,811:  Connection established
+[INFO] 2021-07-31 14:29:58,672:  Data send: LOGOUT
+[INFO] 2021-07-31 14:29:58,672:  Connection closed
+[INFO] 2021-07-31 14:30:02,785:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 14:30:02,794:  Connection established
+[INFO] 2021-07-31 14:30:05,393:  Data send: C:/Users/Retraint/AppData/Local/Programs/Python/Python37/python.exe c:/Users/Retraint/Desktop/BaMMsat/Client.py
+[INFO] 2021-07-31 14:37:11,088:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 14:37:11,089:  Connection established
+[INFO] 2021-07-31 14:37:13,396:  Data send: sdq
+[INFO] 2021-07-31 14:37:13,397:  Received data: No command found
+[INFO] 2021-07-31 14:37:50,621:  Data send: LOGOUT
+[INFO] 2021-07-31 14:37:50,621:  Connection closed
+[INFO] 2021-07-31 14:42:48,490:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 14:42:48,491:  Connection established
+[INFO] 2021-07-31 14:44:34,630:  Data send: LOGOUT
+[INFO] 2021-07-31 14:44:34,631:  Connection closed
+[INFO] 2021-07-31 16:40:04,540:  Connecting to: 169.254.92.26
+[INFO] 2021-07-31 16:40:04,541:  Connection established
+[INFO] 2021-07-31 16:40:17,213:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-31 16:40:17,268:  Received data:      command length
+0  SAVE_TEMP   None
+1    TEST123      3
+[INFO] 2021-07-31 16:40:28,188:  Data send: DELETE_COMMAND 0
+[INFO] 2021-07-31 16:40:28,198:  Received data: command deleted
+[INFO] 2021-07-31 16:40:38,292:  Data send: ADD_COMMAND test123 300
+[INFO] 2021-07-31 16:40:38,305:  Received data: command added
+[INFO] 2021-07-31 16:40:40,685:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-31 16:40:40,715:  Received data:    command length
+0  TEST123      3
+1  test123    300
+[INFO] 2021-07-31 16:40:51,734:  Data send: ADD_COMMAND test123 300
+[INFO] 2021-07-31 16:40:51,742:  Received data: command added
+[INFO] 2021-07-31 16:40:53,353:  Data send: GET_AUTO_MODE_LIST
+[INFO] 2021-07-31 16:40:53,372:  Received data:    command length
+0  TEST123      3
+1  test123    300
+2  test123    300
+[INFO] 2021-07-31 16:41:01,766:  Data send: GET_STATE
+[INFO] 2021-07-31 16:41:01,768:  Received data: 
+Current state of the system:
+SAVE TEMP: False
+SAVE CURRENT: False
+AUTO HEAT: False
+IN RECORD: False
+IN TIMELAPSE: False
+[INFO] 2021-07-31 16:41:13,965:  Data send: AUTO_MODE_START
+[INFO] 2021-07-31 16:41:13,978:  Received data: Auto Mode On
+[INFO] 2021-07-31 16:41:22,411:  Data send: GET_STATE
+[INFO] 2021-07-31 16:41:22,413:  Received data: 
+Current state of the system:
+SAVE TEMP: False
+SAVE CURRENT: False
+AUTO HEAT: False
+IN RECORD: False
+IN TIMELAPSE: False
+[INFO] 2021-07-31 16:41:41,512:  Data send: VIDEO_RECORDING_START
+[INFO] 2021-07-31 16:41:41,513:  Received data: Camera started recording
+[INFO] 2021-07-31 16:41:46,747:  Data send: GET_STATE
+[INFO] 2021-07-31 16:41:46,749:  Received data: 
+Current state of the system:
+SAVE TEMP: False
+SAVE CURRENT: False
+AUTO HEAT: False
+IN RECORD: True
+IN TIMELAPSE: False
